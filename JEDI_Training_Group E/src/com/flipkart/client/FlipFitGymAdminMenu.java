@@ -11,10 +11,7 @@ import java.util.List;
 import static com.flipkart.constants.ColorConstants.ANSI_CYAN;
 import static com.flipkart.constants.ColorConstants.ANSI_RESET;
 
-/// Handles the menu operations for the admin in the FlipFit application.
-/// Provides functionality for viewing gyms, gym owners, and unverified entities,
-/// as well as verifying gyms, gym owners, and admin credentials.
-///
+
 
 public class FlipFitGymAdminMenu {
 

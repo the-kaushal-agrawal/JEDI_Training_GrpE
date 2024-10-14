@@ -16,7 +16,6 @@ public class DatabaseConnector {
                 return connection;
             } else {
                 try {
-//
                     Class.forName("com.mysql.cj.jdbc.Driver");
                       connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/FlipFit_Database", "root", "");
 
